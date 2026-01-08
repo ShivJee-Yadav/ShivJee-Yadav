@@ -5,7 +5,7 @@
 <div align="center">
   
   <a href="https://github.com/ShivJee-Yadav">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=338294&center=true&vCenter=true&width=500&lines=Software+Engineer+%26+AI%2FML+Developer; Electrical+Engineering+(AIoT+Specialization);Cybersecurity+Enthusiast;Student+@+IIT+Jodhpur;Solving+Real-World+Problems+with+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=338294&center=true&vCenter=true&width=500&lines=Software+Engineer+%26+AI%2FML+Developer;Electrical+Engineering+(AIoT+Specialization);Cybersecurity+Enthusiast;Student+@+IIT+Jodhpur;Solving+Real-World+Problems+with+Code" alt="Typing SVG" />
   </a>
 
 </div>
@@ -45,30 +45,25 @@ I don't just write code; I try to make it interact with the physical world or se
 
 | **Project** | **What it is** | **Tech Stack** |
 | :--- | :--- | :--- |
-| **🛡️ Network Intrusion Detection** | A robust security system using ML to classify network traffic and detect anomalies/intrusions in real-time with high accuracy. | `Python` `Scikit-Learn` `Pandas` `CyberSec` |
-| **📉 CNN using POF** | Deep Learning applied to **Plastic Optical Fiber (POF)** data. Utilizes Convolutional Neural Networks to analyze signal patterns for classification and error correction. | `PyTorch` `Deep Learning` `Signal Proc` |
-| **🛰️ Orbital Debris Risk Analysis** | Assessing collision risks for **574,000+ objects**. Built a dual-inference AI model to handle signal-to-background noise (Space Debris Conference). | `Python` `PyTorch` `Optuna` `Stats` |
-| **⚙️ Satellite Reaction Wheel** | High-precision stabilization system. Integrated **mechanical dynamics with embedded C++**, bridging the gap between sensors and motor control. | `C++` `Embedded` `PID Control` `SolidWorks` |
-| **🌳 Memory-Optimized ID3** | Decision tree classifier built from scratch. Optimized memory structure to cut execution time by **15%**—no pre-built libraries, just raw logic. | `C++` `Algorithms` `Memory Mgmt` |
-| **💻 CPU Cache Simulator** | Direct-mapped cache simulator. Tracks hit/miss ratios and evictions to visualize computer architecture at a low level. | `C++` `Systems` `Architecture` |
+| **🛡️ Network Intrusion Detection** | A robust security system using ML to classify network traffic and detect anomalies in real-time. | `Python` `Scikit-Learn` `Pandas` `CyberSec` |
+| **📉 CNN using POF** | Deep Learning applied to **Plastic Optical Fiber (POF)** data. Analyzes signal patterns for classification. | `PyTorch` `Deep Learning` `Signal Proc` |
+| **🛰️ Orbital Debris Risk Analysis** | Assessing collision risks for **574,000+ objects**. Built a dual-inference AI model (Space Debris Conference). | `Python` `PyTorch` `Optuna` `Stats` |
+| **⚙️ Satellite Reaction Wheel** | High-precision stabilization system. Integrated **mechanical dynamics with embedded C++**. | `C++` `Embedded` `PID` `SolidWorks` |
+| **🌳 Memory-Optimized ID3** | Decision tree classifier built from scratch. Optimized memory structure to cut execution time by **15%**. | `C++` `Algorithms` `Memory Mgmt` |
+| **💻 CPU Cache Simulator** | Direct-mapped cache simulator. Tracks hit/miss ratios and evictions to visualize architecture. | `C++` `Systems` `Architecture` |
 
 > *Check my [Repositories](https://github.com/ShivJee-Yadav?tab=repositories) to see the code.*
 
 ---
 
-### 🧩 Competitive Programming & Security
+### 🧩 Competitive Programming
 
 <div align="center">
-  
-  <a href="https://leetcode.com/shivyadav1936/">
-    <img src="https://leetcard.jacoblin.cool/shivyadav1936?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-  
-  <br/><br/>
-  
-  <a href="https://tryhackme.com/p/GYPSYxRANGER">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/ShivJee-Yadav.png" alt="TryHackMe" />
-  </a>
+<br/>
+
+<a href="https://leetcode.com/shivyadav1936/">
+<img src="https://leetcard.jacoblin.cool/shivyadav1936?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</a>
 
 </div>
 
@@ -77,8 +72,11 @@ I don't just write code; I try to make it interact with the physical world or se
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivJee-Yadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivJee-Yadav&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" />
+
+![ShivJee-Yadav's Stats](https://github-readme-stats.vercel.app/api?username=ShivJee-Yadav&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivJee-Yadav&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
 </div>
 
 ---

@@ -5,7 +5,7 @@
 <div align="center">
   
   <a href="https://github.com/ShivJee-Yadav">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=338294&center=true&vCenter=true&width=500&lines=Software+Engineer+%26+AI%2FML+Developer;Electrical+Engineering+(AIoT+Specialization);Cybersecurity+Enthusiast;Student+@+IIT+Jodhpur;Solving+Real-World+Problems+with+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=338294&center=true&vCenter=true&width=500&lines=Software+Engineer+%26+AI%2FML+Developer; Electrical+Engineering+(AIoT+Specialization);Cybersecurity+Enthusiast;Student+@+IIT+Jodhpur;Solving+Real-World+Problems+with+Code" alt="Typing SVG" />
   </a>
 
 </div>
@@ -66,7 +66,7 @@ I don't just write code; I try to make it interact with the physical world or se
   
   <br/><br/>
   
-  <a href="https://tryhackme.com/p/ShivJee-Yadav">
+  <a href="https://tryhackme.com/p/GYPSYxRANGER">
     <img src="https://tryhackme-badges.s3.amazonaws.com/ShivJee-Yadav.png" alt="TryHackMe" />
   </a>
 

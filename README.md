@@ -5,30 +5,26 @@
 <div align="center">
   
   <a href="https://github.com/ShivJee-Yadav">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=338294&center=true&vCenter=true&width=500&lines=Building+Satellite+Control+Systems;Crunching+Orbital+Debris+Data;Optimizing+C%2B%2B+for+Low-Level+Logic;Exploring+the+Physics+of+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=338294&center=true&vCenter=true&width=500&lines=Software+Engineer+%26+AI%2FML+Developer;Electrical+Engineering+(AIoT+Specialization);Cybersecurity+Enthusiast;Student+@+IIT+Jodhpur;Solving+Real-World+Problems+with+Code" alt="Typing SVG" />
   </a>
 
 </div>
 
 ---
 
-### 👋 A Bit About Me
+### 👋 The Logic Behind the Code
 
-I'm an Electrical Engineering undergrad at **IIT Jodhpur**, but I spend most of my time blurring the lines between hardware physics and software logic. 
+I'm an Electrical Engineering undergrad at **IIT Jodhpur**, working at the intersection of hardware physics, software logic, and cybersecurity.
 
-I don't just write code; I try to make it interact with the physical world. Whether I'm designing **PID control loops** to stabilize a satellite payload or using **Transformers** to analyze space debris risks, I love problems that require both math and engineering. 
+I don't just write code; I try to make it interact with the physical world or secure it against threats. Whether I'm designing **PID control loops** for satellites, analyzing **Optical Fiber signals with CNNs**, or optimizing **C++ cache simulators**, I enjoy problems that require a deep understanding of how systems work under the hood.
 
-I enjoy the challenge of taking complex system logic—like thermodynamics or control theory (where I somehow managed perfect scores)—and turning it into efficient, working software.
-
-- 🔭 **Currently Working On:** Analyzing kinematic variances in orbital objects for safer space traffic.
-- 🔬 **Interests:** AIoT, Edge Computing, Control Systems, and anything related to Space/CERN.
-- ⚡ **Fun Fact:** I write C++ from scratch to understand the logic, not just because it's fast.
+- 🔭 **Currently Working On:** Analyzing kinematic variances in orbital objects (Space Debris) & Network Security.
+- 🔬 **Interests:** AIoT, Embedded Systems, Cybersecurity (CTFs), and Space Tech.
+- ⚡ **Fun Fact:** I write C++ from scratch to understand the memory management, not just because it's fast.
 
 ---
 
 ### 🛠️ The Toolbox
-
-I focus on tools that let me talk to hardware and crunch data efficiently.
 
 <div align="center">
 	<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="30" />
@@ -45,21 +41,40 @@ I focus on tools that let me talk to hardware and crunch data efficiently.
 
 ---
 
-### 🚀 Featured Work
+### 🚀 Projects & Research
 
-Here are a few things I've built that I'm proud of:
-
-| **Project** | **What it is** | **Tech Used** |
+| **Project** | **What it is** | **Tech Stack** |
 | :--- | :--- | :--- |
-| **🛰️ Orbital Debris Risk Analysis** | Assessing collision risks for **574,000+ objects**. I built a dual-inference AI model to handle signal-to-background noise (similar to particle physics data). | `Python` `PyTorch` `Optuna` `Statistics` |
-| **⚙️ Satellite Reaction Wheel** | A high-precision stabilization system. I integrated **mechanical dynamics with embedded C++**, bridging the gap between MPU6050 sensors and motor control. | `C++` `Embedded` `PID Control` `SolidWorks` |
-| **🌳 Memory-Optimized ID3** | A decision tree classifier built from scratch in C++. I optimized the memory structure to cut execution time by **15%**—no pre-built libraries, just logic. | `C++` `Algorithms` `Memory Mgmt` |
+| **🛡️ Network Intrusion Detection** | A robust security system using ML to classify network traffic and detect anomalies/intrusions in real-time with high accuracy. | `Python` `Scikit-Learn` `Pandas` `CyberSec` |
+| **📉 CNN using POF** | Deep Learning applied to **Plastic Optical Fiber (POF)** data. Utilizes Convolutional Neural Networks to analyze signal patterns for classification and error correction. | `PyTorch` `Deep Learning` `Signal Proc` |
+| **🛰️ Orbital Debris Risk Analysis** | Assessing collision risks for **574,000+ objects**. Built a dual-inference AI model to handle signal-to-background noise (Space Debris Conference). | `Python` `PyTorch` `Optuna` `Stats` |
+| **⚙️ Satellite Reaction Wheel** | High-precision stabilization system. Integrated **mechanical dynamics with embedded C++**, bridging the gap between sensors and motor control. | `C++` `Embedded` `PID Control` `SolidWorks` |
+| **🌳 Memory-Optimized ID3** | Decision tree classifier built from scratch. Optimized memory structure to cut execution time by **15%**—no pre-built libraries, just raw logic. | `C++` `Algorithms` `Memory Mgmt` |
+| **💻 CPU Cache Simulator** | Direct-mapped cache simulator. Tracks hit/miss ratios and evictions to visualize computer architecture at a low level. | `C++` `Systems` `Architecture` |
 
-> *Check my [Repositories](https://github.com/ShivJee-Yadav?tab=repositories) to see the code behind the logic.*
+> *Check my [Repositories](https://github.com/ShivJee-Yadav?tab=repositories) to see the code.*
 
 ---
 
-### 📈 Coding Activity
+### 🧩 Competitive Programming & Security
+
+<div align="center">
+  
+  <a href="https://leetcode.com/shivyadav1936/">
+    <img src="https://leetcard.jacoblin.cool/shivyadav1936?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+  
+  <br/><br/>
+  
+  <a href="https://tryhackme.com/p/ShivJee-Yadav">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ShivJee-Yadav.png" alt="TryHackMe" />
+  </a>
+
+</div>
+
+---
+
+### 📈 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShivJee-Yadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
@@ -70,16 +85,11 @@ Here are a few things I've built that I'm proud of:
 
 ### 📬 Let's Connect
 
-I'm always open to discussing space tech, control systems, or why Interstellar is a masterpiece.
-
 <div align="center">
   <a href="https://in.linkedin.com/in/shiv-yadav-ba3547284">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shivyadav1936@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/shivyadav1936/">
-    <img src="https://img.shields.io/badge/LeetCode-Solve_Stats-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </div>

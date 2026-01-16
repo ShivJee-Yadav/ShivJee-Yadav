@@ -5,7 +5,7 @@
 <div align="center">
   
   <a href="https://github.com/ShivJee-Yadav">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=338294&center=true&vCenter=true&width=500&lines=Software+Engineer+%26+AI%2FML+Developer;Electrical+Engineering+(AIoT+Specialization);Cybersecurity+Enthusiast;Student+@+IIT+Jodhpur;Solving+Real-World+Problems+with+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=338294&center=true&vCenter=true&width=550&lines=Software+Engineer+%26+AI%2FML+Developer;Electrical+Engineering+(AIoT+Specialization);Cybersecurity+Enthusiast;Student+@+IIT+Jodhpur;Solving+Real-World+Problems+with+Code" alt="Typing SVG" />
   </a>
 
 </div>

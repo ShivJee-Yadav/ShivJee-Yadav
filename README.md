@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Shiv%20Jee%20Yadav&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Electrical%20Engineering%20@%20IIT%20Jodhpur%20%7C%20AIoT%20&%20Space%20Tech&descAlignY=55&descAlign=60&fontColor=white" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=250&section=header&text=Shiv%20Jee%20Yadav&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Electrical%20Engineering%20@%20IIT%20Jodhpur%20%7C%20AIoT%20&%20Space%20Tech&descAlignY=55&descAlign=60&fontColor=white" width="100%"/>
 </div>
 
 <div align="center">

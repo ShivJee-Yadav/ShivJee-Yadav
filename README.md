@@ -46,7 +46,7 @@ I don't just write code; I try to make it interact with the physical world or se
 | **Project** | **What it is** | **Tech Stack** |
 | :--- | :--- | :--- |
 | **🛡️ Network Intrusion Detection** | A robust security system using ML to classify network traffic and detect anomalies in real-time. | `Python` `Scikit-Learn` `Pandas` `CyberSec` |
-| **📉 CNN using POF** | Deep Learning applied to **Plastic Optical Fiber (POF)** data. Analyzes signal patterns for classification. | `PyTorch` `Deep Learning` `Signal Proc` |
+| **📉 FiberFreqNet — Image‑Driven Frequency Estimation** | Deep Learning applied to **Plastic Optical Fiber (POF)** data. Analyzes signal patterns for classification. | `PyTorch` `Deep Learning` `Signal Proc` |
 | **🛰️ Orbital Debris Risk Analysis** | Assessing collision risks for **574,000+ objects**. Built a dual-inference AI model (Space Debris Conference). | `Python` `PyTorch` `Optuna` `Stats` |
 | **⚙️ Satellite Reaction Wheel** | High-precision stabilization system. Integrated **mechanical dynamics with embedded C++**. | `C++` `Embedded` `PID` `SolidWorks` |
 | **🌳 Memory-Optimized ID3** | Decision tree classifier built from scratch. Optimized memory structure to cut execution time by **15%**. | `C++` `Algorithms` `Memory Mgmt` |

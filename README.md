@@ -14,9 +14,10 @@
 
 ### 👋 The Logic Behind the Code
 
-I'm an Electrical Engineering undergrad at **IIT Jodhpur**, working at the intersection of hardware physics, software logic, and cybersecurity.
+Hey! I’m Shiv Jee Yadav, a 3rd-year Electrical Engineering undergrad at IIT Jodhpur. I’m super passionate about exploring domains like Artificial Intelligence, Deep Learning, Electrical Systems, and Cybersecurity. What excites me the most is working on challenges that don’t have ready-made solutions yet—I love diving into problems that push boundaries and spark innovation.
 
-I don't just write code; I try to make it interact with the physical world or secure it against threats. Whether I'm designing **PID control loops** for satellites, analyzing **Optical Fiber signals with CNNs**, or optimizing **C++ cache simulators**, I enjoy problems that require a deep understanding of how systems work under the hood.
+For me, coding is more than just solving problems—it’s about pushing boundaries in AI, Electrical Systems, and Cybersecurity. I’m motivated by the idea of making algorithms intelligent enough to decode complex signals, designing control systems that keep real-world machines stable, and building defenses that protect technology from evolving threats. Whether it’s applying Deep Learning models to analyze optical fiber data, creating PID control loops to manage electrical systems, or developing secure architectures to guard against cyberattacks, I thrive on challenges that demand both innovation and a deep understanding of how systems truly work.
+
 
 - 🔭 **Currently Working On:** Analyzing kinematic variances in orbital objects (Space Debris) & Network Security.
 - 🔬 **Interests:** AIoT, Embedded Systems, Cybersecurity (CTFs), and Space Tech.

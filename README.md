@@ -12,6 +12,14 @@
 
 ---
 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,bootstrap,tailwind,react,nextjs,nodejs,express,fastapi,npm,mongodb,mysql,redis,git,gmail,github,docker,postman,aws,linux,ubuntu,arduino,opencv,pytorch,tensorflow,sklearn,anaconda&perline=8" />
+</p>
+
+<br>
+
+
 ### 👋 The Logic Behind the Code
 
 Hey! I’m Shiv Jee Yadav, a 3rd-year Electrical Engineering undergrad at IIT Jodhpur. I’m super passionate about exploring domains like Artificial Intelligence, Deep Learning, Electrical Systems, and Cybersecurity. What excites me the most is working on challenges that don’t have ready-made solutions yet—I love diving into problems that push boundaries and spark innovation.
@@ -25,22 +33,6 @@ For me, coding is more than just solving problems—it’s about pushing boundar
 
 ---
 
-### 🛠️ The Toolbox
-
-<div align="center">
-	<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="30" />
-	<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="30" />
-	<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" height="30" />
-	<img src="https://img.shields.io/badge/-MATLAB-e16737?style=flat-square&logo=mathworks&logoColor=white" height="30" />
-    <br/>
-    <img src="https://img.shields.io/badge/-Linux%20%2F%20Bash-FCC624?style=flat-square&logo=linux&logoColor=black" height="30" />
-	<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="30" />
-	<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="30" />
-	<img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="30" />
-    <img src="https://img.shields.io/badge/-SolidWorks-D32D2D?style=flat-square&logo=solidworks&logoColor=white" height="30" />
-</div>
-
----
 
 ### 🚀 Projects & Research
 
@@ -57,7 +49,7 @@ For me, coding is more than just solving problems—it’s about pushing boundar
 
 ---
 
-### 🧩 Competitive Programming
+### 🧩 Technical Stats
 
 <div align="center">
 <br/>
@@ -70,17 +62,17 @@ For me, coding is more than just solving problems—it’s about pushing boundar
 
 ---
 
-### 📈 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="GitHub Streak" /></a>
+  <a href="https://github-readme-streak-stats-sigma-teal.vercel.app/"><img src="https://github-readme-streak-stats-sigma-teal.vercel.app/?user=ShivJee-Yadav&theme=github_dark&hide_border=true" alt="GitHub Streak" /></a>
+</p>
 
-![ShivJee-Yadav's Stats](https://github-readme-stats.vercel.app/api?username=ShivJee-Yadav&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center"> <a href="https://github.com/luv-valecha/github-trophies"><img src="https://github-trophies.vercel.app/?username=ShivJee-Yadav&theme=darkhub&row=2&column=4" alt="luv-valecha" /></a> </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivJee-Yadav&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
-</div>
-
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShivJee-Yadav&abbreviated=true&color=brightgreen" alt="Profile views" />
+</p>
 
 ### 📬 Let's Connect
 

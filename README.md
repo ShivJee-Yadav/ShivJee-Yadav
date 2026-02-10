@@ -22,15 +22,14 @@
 
 ### 👋 The Logic Behind the Code
 
-Hey! I’m Shiv Jee Yadav, a 3rd-year Electrical Engineering undergrad at IIT Jodhpur. I’m super passionate about exploring domains like Artificial Intelligence, Deep Learning, Electrical Systems, and Cybersecurity. What excites me the most is working on challenges that don’t have ready-made solutions yet—I love diving into problems that push boundaries and spark innovation.
+Hey — I’m Shiv Jee Yadav, a 3rd‑year Electrical Engineering student at IIT Jodhpur. I’m passionate about building data‑driven systems that bridge theory and hardware, and I enjoy tackling open‑ended problems that require both rigorous modeling and practical engineering. My core data science strengths include Natural Language Processing, Transformer architectures, deep learning (CNNs, RNNs, attention mechanisms), Generative Adversarial Networks (GANs), Gaussian processes, probabilistic modeling, Bayesian inference, transfer learning, representation learning, and practical experience with PyTorch, TensorFlow, and scikit‑learnI’m comfortable with feature engineering, embeddings, tokenization, sequence modeling, hyperparameter tuning, and robust model evaluation. 
 
-For me, coding is more than just solving problems—it’s about pushing boundaries in AI, Electrical Systems, and Cybersecurity. I’m motivated by the idea of making algorithms intelligent enough to decode complex signals, designing control systems that keep real-world machines stable, and building defenses that protect technology from evolving threats. Whether it’s applying Deep Learning models to analyze optical fiber data, creating PID control loops to manage electrical systems, or developing secure architectures to guard against cyberattacks, I thrive on challenges that demand both innovation and a deep understanding of how systems truly work.
+In AIoT and embedded systems I work on sensor interfacing, microcontrollers (ARM/AVR), real‑time data acquisition, edge inference techniques such as quantization and model compression, latency–accuracy tradeoffs, and control fundamentals like PID design and state estimation. In the core electrical domain I focus on circuit analysis, PCB prototyping, signal conditioning, ADC/DAC workflows, hardware–software co‑design, power and control systems, and designing secure, resilient architectures for networked devices. 
 
 
-- 🔭 **Currently Working On:** Analyzing kinematic variances in orbital objects (Space Debris) & Network Security.
-- 🔬 **Interests:** AIoT, Embedded Systems, Cybersecurity (CTFs), and Space Tech.
-- ⚡ **Fun Fact:** I write C++ from scratch to understand the memory management, not just because it's fast.
 
+- 🔭 **Currently Working On:** Project based on YOLO, Backend Development, Frontend Reactjs .
+- 🔬 **Interests:** AI/ML, Embedded Systems, Cybersecurityand Space Tech.
 ---
 
 

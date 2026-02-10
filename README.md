@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=250&section=header&text=Shiv%20Jee%20Yadav&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Electrical%20Engineering%20@%20IIT%20Jodhpur%20%7C%20AIoT%20&%20Space%20Tech&descAlignY=55&descAlign=60&fontColor=white" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Shiv%20Jee%20Yadav&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Electrical%20Engineering%20@%20IIT%20Jodhpur%20%7C%20AIoT%20&%20Space%20Tech&descAlignY=55&descAlign=60&fontColor=white" width="100%"/>
 </div>
 
 <div align="center">
@@ -47,6 +47,23 @@ In AIoT and embedded systems I work on sensor interfacing, microcontrollers (ARM
 > *Check my [Repositories](https://github.com/ShivJee-Yadav?tab=repositories) to see the code.*
 
 ---
+## 📈 Contribution Stats & Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivJee-Yadav&theme=radical" width="98%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivJee-Yadav&theme=radical" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivJee-Yadav&theme=radical" width="48%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivJee-Yadav&theme=radical" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShivJee-Yadav&theme=radical&utcOffset=9" width="48%"/>
+
+</div>
 
 ### 🧩 Technical Stats
 
